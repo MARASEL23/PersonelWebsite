@@ -27,6 +27,7 @@ h2{
     color: #9b5151;
     font-family: 'Montserrat', sans-serif;
     font-size: 2.5rem;
+    padding-bottom: 10px;
 }
 
 
@@ -42,6 +43,7 @@ h3{
 }
 
 .middle-container{
+    margin: 100px 0;
 }
 
 .bottom-container{
@@ -71,10 +73,6 @@ h3{
 }
 
 
-.avatar-img{
-    margin-top: 33.2px ;
-}
-
 .hr-color{
     color: #f5d782;
 }
@@ -86,6 +84,18 @@ h3{
 
 .desing-p{
     color: whitesmoke;
+}
+
+.contact-message{
+    width: 40%;
+    margin: 40px auto 60px;
+}
+
+.intro{
+    width: 30%;
+    margin: auto;
+    color: whitesmoke;
+    font-size: 1.2rem;
 }
 
 
@@ -102,5 +112,53 @@ h3{
     bottom: 300px;
 }
 
+.btn {
+    background: #f5d782;
+    background-image: -webkit-linear-gradient(top, #f5d782, #f5d782);
+    background-image: -moz-linear-gradient(top, #f5d782, #f5d782);
+    background-image: -ms-linear-gradient(top, #f5d782, #f5d782);
+    background-image: -o-linear-gradient(top, #f5d782, #f5d782);
+    background-image: linear-gradient(to bottom, #f5d782, #f5d782);
+    -webkit-border-radius: 28;
+    -moz-border-radius: 28;
+    border-radius: 28px;
+    font-family: 'Montserrat', sans-serif;
+    color: #9b5151;
+    font-size: 20px;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+  }
+  
+  .btn:hover {
+    background: #94e0e3;
+    text-decoration: none;
+  }
 
+
+  .bottom-container{
+      background-color: #AA9A31;
+      padding: 50px 0 20px;
+  }
+
+  a{
+      color: black;
+      font-family: 'Montserrat', sans-serif;
+      margin: 10px 20px;
+      text-decoration: none;
+  }
+
+  a:hover{
+      color: whitesmoke;
+  }
+
+
+  .marasel{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 16px;
+    padding: 20px 0;
+  }
+
+
+
+  
 
